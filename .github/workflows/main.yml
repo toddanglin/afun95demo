@@ -1,4 +1,4 @@
-  name: Azure Functions Action
+- name: Azure Functions Action
   uses: Azure/functions-action@v1.1.3
   with:
     # Name of the Azure Function App
